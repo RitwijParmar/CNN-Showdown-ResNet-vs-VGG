@@ -53,4 +53,4 @@ def train_model(model, train_loader, validation_loader, criterion, optimizer, sc
               f"Duration: {time.time() - start_time:.2f}s")
     
     print("Training finished.")
-    return history
+    return history# Minor refactoring
