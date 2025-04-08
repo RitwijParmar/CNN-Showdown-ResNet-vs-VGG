@@ -54,4 +54,4 @@ The ResNet-18 model not only achieved a significantly higher final accuracy but 
 
 1.  **Prerequisites**: Ensure you have Python and the necessary libraries installed from `requirements.txt`.
 2.  **Dataset**: Download the dataset and place the unzipped folder in the project's root directory.
-3.  **Execution**: Run the Jupyter Notebook `CNN-Showdown-ResNet-vs-VGG.ipynb` sequentially. The notebook handles data preparation, model training, and evaluation.
+3.  **Execution**: Run the Jupyter Notebook `CNN-Showdown-ResNet-vs-VGG.ipynb` sequentially. The notebook handles data preparation, model training, and evaluation.## Final Results
