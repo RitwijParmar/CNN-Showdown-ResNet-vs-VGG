@@ -40,7 +40,7 @@ Both models were trained using a comprehensive strategy to ensure a fair compari
 
 The final evaluation on the held-out test set clearly demonstrates the superiority of the ResNet-18 architecture for this task.
 
-![Optimizer Performance Comparison](assets/f8.jpg)
+![Optimizer Performance Comparison](f8.png)
 
 * **Final Test Accuracy**:
     * **VGG-16**: 89.71%
